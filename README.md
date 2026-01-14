@@ -16,7 +16,7 @@ And be placed in 3D
 If you like my work, and want it to stay FREE FOR EVERYONE, help donate to the cause and make my parents proud : D. 
 If not enough people donate, I will have to start selling my nodes for money, and that would make me really sad because not everyone would have access for them.
 Paypal donation link: 
-https://www.paypal.com/ncp/payment/BZQLKVUL83HEJ
+https://www.paypal.com/donate/?hosted_button_id=GE6ZU7C9EDBN8
 
 
 ## How To Install
